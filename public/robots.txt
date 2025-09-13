@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+
+User-agent: Googlebot-News
+Allow: /
+
+Sitemap: https://www.exportimportnews.com/sitemap.xml
+Sitemap: https://www.exportimportnews.com/ror.xml
+Sitemap: https://www.exportimportnews.com/urllist.txt
